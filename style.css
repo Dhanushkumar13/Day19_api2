@@ -1,0 +1,28 @@
+html{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #341542;
+    padding: 100px;
+}
+
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.text{
+    color: aliceblue;
+    font-size: 26px;
+    font-weight: lighter;
+    font-family: 'Courier New', Courier, monospace;
+}
